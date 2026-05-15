@@ -15,7 +15,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 <br><br>
 # 🔮 Próximos Passos
 
-* Comparação MoM
+* Comparação MoM DAX
 * Comparação YoY
 
 
