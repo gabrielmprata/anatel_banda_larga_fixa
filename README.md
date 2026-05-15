@@ -13,5 +13,9 @@ Os dados apresentados nesse estudo acadêmico, referem-se aos acessos de Banda L
 
 O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicações de interesse coletivo, prestado em âmbito nacional e internacional, no regime privado, que possibilita a oferta de capacidade de transmissão, emissão e recepção de informações multimídia, permitindo inclusive o provimento de conexão à internet, utilizando quaisquer meios, a Assinantes dentro de uma Área de Prestação de Serviço.
 <br><br>
+# 🔮 Próximos Passos
+
+* Comparação MoM
+* Comparação YoY
 
 
