@@ -212,7 +212,7 @@ Power BI renderiza melhor.
 
 ---
 
-# Plugins Figma que vão ajudar MUITO
+# Plugins Figma que vão ajudar MUITO!
 
 ## Icons
 
