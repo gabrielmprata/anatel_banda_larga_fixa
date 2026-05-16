@@ -18,6 +18,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Comparação MoM DAX Mes anterior, variacao
 * Comparação YoY
 * Filtros Todos, para UF com hierarquia
+* Tabela de histórico
 
 # 🎨 UI/UX
 Acesse o design de interface no Figma!
