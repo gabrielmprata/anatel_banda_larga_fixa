@@ -21,6 +21,6 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Tabela de histórico
 * Detalhe card com seta alinhado
 
-# 🎨 UI/UX
+# 🎨 UX/UI Design
 Acesse o design de interface no Figma!
 
