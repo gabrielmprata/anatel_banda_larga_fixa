@@ -23,7 +23,8 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 # 🔮 Próximos Passos
 
 * Comparação MoM DAX Mes anterior, variacao
-* Comparação YoY
+* Comparação YoY no gráfico
+* 
 * Filtros Todos, para UF com hierarquia
 * Tabela de histórico
 * Detalhe card com  ➕ e ➖
