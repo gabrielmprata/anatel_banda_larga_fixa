@@ -20,3 +20,16 @@ SWITCH(
     "1Gb+"
 )
 ```
+* Tabela calendario 📅
+``` 
+dm_calendario = 
+VAR DataInicio = DATE(2024, 12, 1)
+VAR DataFim = DATE(2025,12,31)
+RETURN
+    ADDCOLUMNS (
+        CALENDAR (DataInicio, DataFim),
+        "ano", YEAR([Date]),
+        "mes", MONTH([Date]),
+        "mes_desc", FORMAT([Date], "MMMM")
+        )
+```
