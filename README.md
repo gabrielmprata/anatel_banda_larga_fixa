@@ -19,6 +19,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Barras horizontal por meio de acesso, agrupando por operadora
 * Linhas com o historico meio de acesso
 * Barras horizontal por operadora com a opção "Outros"
+* Mapa do Brasil
 
 <br><br>
 # 🔮 Próximos Passos
