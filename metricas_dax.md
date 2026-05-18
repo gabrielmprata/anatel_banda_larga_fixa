@@ -1,4 +1,17 @@
-# 🧮 Métricas Desenvolvidas
+# 🧮 Medidas Desenvolvidas
+
+* Criar tabela de medidas
+  
+Para Organizar melhor as medidas no projeto, vá no menu principal > Página Inicial > Inserir dados
+
+Coloque o nome da tabela de *medidas*, não precisa colocar o nome da coluna
+
+No menu direito de DADOS, selecionar a tabela de MEDIDAS e escolher a opção de **criar nova medida**
+
+Agora, podemos criar as medidas de maneira organizada
+
+---
+
 
 * Faixa de velocidade
 ```
