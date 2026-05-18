@@ -17,6 +17,11 @@ Agora, podemos criar as medidas de maneira organizada
 acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
 ```
 
+🧮 Total de população projetada
+```
+populacao = sum(dm_populacao[populacao])
+```
+
 * Faixa de velocidade
 ```
 faixa_velocidade = 
