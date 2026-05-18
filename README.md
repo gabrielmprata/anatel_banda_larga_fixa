@@ -21,6 +21,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Barras horizontal por operadora com a opção "Outros"
 * Mapa do Brasil
 * Adições liquidas
+* Churn
 
 <br><br>
 # 🔮 Próximos Passos
