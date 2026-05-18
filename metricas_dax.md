@@ -22,6 +22,12 @@ acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
 populacao = sum(dm_populacao[populacao])
 ```
 
+🧮 Quantidade de acessos do mês anterior
+```
+ant_acessos_pan = CALCULATE([acessos_panorama],DATEADD(dm_calendario[data],-1,MONTH))
+```
+
+---
 * Faixa de velocidade
 ```
 faixa_velocidade = 
