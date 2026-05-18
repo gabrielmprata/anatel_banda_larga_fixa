@@ -12,6 +12,10 @@ Agora, podemos criar as medidas de maneira organizada
 
 ---
 
+🧮 Total de acessos
+```
+acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
+```
 
 * Faixa de velocidade
 ```
