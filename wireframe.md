@@ -19,16 +19,16 @@
 
 ## Dimensões
 
-* Largura: `180px`
-* Altura: `100%`
+* Largura: `50px`
+* Altura: `444px`
 
 ## Fundo
 
-* Cor:
+* Linear:
 
-  * `#020B1C`
-* Transparência leve
-* Glow azul discreto nas bordas
+  * `#0E278E`
+* Transparência leve 30%
+* Glow azul discreto nas bordas `#80D4FA`
 
 ## Estrutura
 
