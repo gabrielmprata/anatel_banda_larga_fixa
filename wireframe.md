@@ -131,6 +131,109 @@
 
 ---
 
+# Paleta de Cores — Ícone Fibra Óptica
+
+## Estado ON (Selecionado)
+
+Esse é o ícone com glow forte e aparência ativa.
+
+| Elemento          | Cor       |
+| ----------------- | --------- |
+| Glow principal    | `#00A3FF` |
+| Azul neon intenso | `#1DB8FF` |
+| Azul profundo     | `#013681` |
+| Branco brilho     | `#EAF7FF` |
+| Glow secundário   | `#35C2FF` |
+
+### Características Visuais
+
+* Glow forte
+* Alto contraste
+* Sensação de ativo/conectado
+* Destaque visual no menu
+
+---
+
+# Estado OFF (Não Selecionado)
+
+Esse é o ícone discreto para menus não ativos.
+
+| Elemento                | Cor           |
+| ----------------------- | ------------- |
+| Cinza azulado principal | `#E1E8ED`     |
+| Cinza secundário        | `#AAB7C4`     |
+| Contorno suave          | `#C9D4DD`     |
+| Glow mínimo             | `#DCE6EE`     |
+| Fundo transparente      | `Transparent` |
+
+### Características Visuais
+
+* Sem glow intenso
+* Baixo contraste
+* Elegante/discreto
+* Não compete com o item ativo
+
+---
+
+# Melhor Combinação no Dashboard
+
+## Sidebar
+
+### OFF
+
+* Ícone:
+
+  * `#E1E8ED`
+* Texto:
+
+  * `#C9D4DD`
+
+### ON
+
+* Ícone:
+
+  * `#00A3FF`
+* Texto:
+
+  * `#FFFFFF`
+* Fundo:
+
+  * `#013681`
+
+---
+
+# Efeito Premium Recomendado
+
+## ON
+
+* Glow:
+
+  * Blur `18`
+  * Opacidade `35%`
+
+## OFF
+
+* Glow:
+
+  * Blur `4`
+  * Opacidade `10%`
+
+---
+
+# Resultado Visual
+
+Você criou um padrão visual muito parecido com:
+
+* dashboards SaaS enterprise
+* painéis de cyber security
+* interfaces de NOC/SOC
+* plataformas Big Tech de monitoramento
+
+Esse padrão fica extremamente profissional no Power BI.
+
+
+---
+
 # 3. HEADER SUPERIOR
 
 ## Altura
