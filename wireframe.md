@@ -65,7 +65,7 @@
 
 ### Container
 
-* Altura: `72px`
+* Altura: `65px`
 * Border Radius: `8px`
 * Padding Left: `22px`
 
