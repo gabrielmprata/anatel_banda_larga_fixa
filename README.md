@@ -15,7 +15,8 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 <br><br>
 # 📈 Gráficos
 
-* Pizza por meio de acesso ??
+* Cards --> total com variação e densidade
+* Pizza por meio de acesso
 * Barras horizontal por meio de acesso, agrupando por operadora
 * Linhas com o historico meio de acesso
 * Barras horizontal por operadora com a opção "Outros"
