@@ -21,7 +21,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Linhas com o historico meio de acesso
 * Barras horizontal por operadora com a opção "Outros"
 * Mapa do Brasil
-* Adições liquidas
+* Adições liquidas de fibra
 * Churn
 * Último 6 meses baseado no filtro de segmentação
   * Total
