@@ -23,6 +23,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Mapa do Brasil
 * Adições liquidas
 * Churn
+* Último 6 meses baseado no filtro de segmentação
 
 <br><br>
 # 🔮 Próximos Passos
