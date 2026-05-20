@@ -25,7 +25,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Churn
 * Último 6 meses baseado no filtro de segmentação
   * Total
-  * Diferença
+  * Diferença ok
 
 <br><br>
 # 🔮 Próximos Passos
