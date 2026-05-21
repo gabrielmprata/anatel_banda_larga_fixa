@@ -27,7 +27,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
   * Total
   * Diferença
 * Velcidade da planta
-* Velcidade mais aderidas
+* Velcidade mais aderida (dinamico)
 
 <br><br>
 # 🔮 Próximos Passos
