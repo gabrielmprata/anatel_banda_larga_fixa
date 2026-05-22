@@ -45,5 +45,5 @@ Acesse o design de interface no Figma!
 Icones ON/OFF
 Menu
 Wireframe
-Relatorios dinamicos
+Relatorios 3 cards
 
