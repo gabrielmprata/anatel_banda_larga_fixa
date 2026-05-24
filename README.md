@@ -39,6 +39,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Tooltip por meio de acesso por cards
 * Estatica Z-Score por estado
 * Desvio padrao
+* media acumulada dos ultimos 12 meses
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
