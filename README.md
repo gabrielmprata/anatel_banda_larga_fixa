@@ -37,7 +37,7 @@ O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicaçõe
 * Filtros Todos, para UF com hierarquia
 * Detalhe card com  ➕ e ➖
 * Tooltip por meio de acesso por cards
-* Estatica Z-Score por Municpio
+* Estatica Z-Score por estado
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
