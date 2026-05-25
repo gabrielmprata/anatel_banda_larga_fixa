@@ -13,6 +13,19 @@ Os dados apresentados nesse estudo acadêmico, referem-se aos acessos de Banda L
 
 O Serviço de Comunicação Multimídia é um serviço fixo de telecomunicações de interesse coletivo, prestado em âmbito nacional e internacional, no regime privado, que possibilita a oferta de capacidade de transmissão, emissão e recepção de informações multimídia, permitindo inclusive o provimento de conexão à internet, utilizando quaisquer meios, a Assinantes dentro de uma Área de Prestação de Serviço.
 <br><br>
+# 🧠 Sobre o Mercado
+>
+O mercado de banda larga fixa vem crescendo cada vez mais no Brasil, gerando uma grande concorrência entre empresas de telecomunicações.
+>
+Cada vez mais, os brasileiros desejam ter em casa uma conexão de alta velocidade e de grande estabilidade, e esse cenário é um efeito da modernização da infraestrutura de telecomunicações no país.
+>
+Trata-se de um movimento cujo início beneficiou principalmente grandes centros urbanos, mas que foi expandindo gradualmente para cidades pequenas e bairros mais afastados.
+Não resta dúvida hoje em dia, que **a banda larga mais eficaz é a Fibra óptica**.
+>
+A ANATEL(Agência Nacional de Telecomunicações) divulgou em seu portal de dados, que em 2025 o Brasil registrou **55,4 milhões de acessos de banda larga fixa**, e que 79% desses acessos, são de Fibra Óptica.
+>
+Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda Larga no Brasil.
+>	
 # 📈 Gráficos
 
 * Cards --> total com variação e densidade
