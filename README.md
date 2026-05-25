@@ -47,5 +47,5 @@ Acesse o design de interface no Figma!
 Icones ON/OFF
 Menu
 Wireframe
-Relatorios 3 cards fibra
+Relatorios
 
