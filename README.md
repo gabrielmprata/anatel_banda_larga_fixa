@@ -49,3 +49,13 @@ Menu
 Wireframe
 Relatorios
 
+</br></br>
+# 🧱 Arquitetura de Dados
+
+O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
+
+* melhor performance;
+* escalabilidade;
+* facilidade analítica.
+</br></br>
+
