@@ -54,6 +54,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Desvio padrao
 * media acumulada dos ultimos 12 meses
 * Forcast previsão
+* Script Python
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
