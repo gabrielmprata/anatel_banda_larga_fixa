@@ -53,7 +53,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Estatica Z-Score por estado
 * Desvio padrao
 * media acumulada dos ultimos 12 meses
-* Forcast
+* Forcast previsão
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
