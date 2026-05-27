@@ -51,7 +51,6 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Desvio padrao
 * media acumulada dos ultimos 12 meses
 * Forcast previsão
-* Script Python pandas
 * Narrativa executiva
 * Previsto x Realizado
 
