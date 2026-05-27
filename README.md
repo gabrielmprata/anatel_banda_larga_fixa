@@ -47,9 +47,6 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 
 * Comparação MoM DAX Mes anterior, variacao
 * Comparação YoY no gráfico
-* Filtros Todos, para UF com hierarquia
-* Detalhe card com  ➕ e ➖
-* Tooltip por meio de acesso por cards
 * Estatica Z-Score por estado
 * Desvio padrao
 * media acumulada dos ultimos 12 meses
