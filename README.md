@@ -61,7 +61,7 @@ Acesse o design de interface no Figma!
 Icones ON/OFF
 Menu
 Wireframe
-Relatorios
+
 
 </br></br>
 # 🧱 Arquitetura de Dados
