@@ -56,6 +56,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Forcast previsão
 * Script Python pandas
 * Narrativa executiva
+* Previsto x Realizado
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
