@@ -49,7 +49,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Comparação YoY no gráfico
 * Estatica Z-Score por estado
 * Desvio padrao
-* Forcast medidas
+* Forcast medidas realista
 * Narrativa executiva
 * Previsto x Realizado
 
