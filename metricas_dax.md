@@ -1,6 +1,6 @@
 # 🧮 Medidas Desenvolvidas
 
-* Criar tabela de medidas
+* Criar tabela de medidas 
   
 Para Organizar melhor as medidas no projeto, vá no menu principal > Página Inicial > Inserir dados
 
