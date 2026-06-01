@@ -36,7 +36,6 @@ Componentes:
 * Menu OFF
 * Menu ON
 * Ícones
-* Status sistema
 
 ---
 
