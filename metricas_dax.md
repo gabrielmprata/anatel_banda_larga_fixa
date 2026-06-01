@@ -12,7 +12,7 @@ Agora, podemos criar as medidas de maneira organizada
 
 ---
 
-🧮 Total de acessos
+🧮 Total de acessos (panorama)
 ```
 acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
 ```
@@ -22,7 +22,7 @@ acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
 populacao = sum(dm_populacao[populacao])
 ```
 
-🧮 Quantidade de acessos do mês anterior
+🧮 Quantidade de acessos do mês anterior (panorama)
 ```
 ant_acessos_pan = CALCULATE([acessos_panorama],DATEADD(dm_calendario[data],-1,MONTH))
 ```
