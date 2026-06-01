@@ -46,13 +46,6 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 <br><br>
 # 🔮 Próximos Passos
 
-* Comparação MoM DAX Mes anterior, variacao
-* Comparação YoY no gráfico
-* Estatica Z-Score por estado
-* Desvio padrao
-* Forcast
-* Forcast adesoes e médias
-* Narrativa executiva
 * Previsto x Realizado
 
 # 🎨 UX/UI Design
