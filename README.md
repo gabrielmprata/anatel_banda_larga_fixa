@@ -25,7 +25,21 @@ Não resta dúvida hoje em dia, que **a banda larga mais eficaz é a Fibra ópti
 A ANATEL(Agência Nacional de Telecomunicações) divulgou em seu portal de dados, que em 2025 o Brasil registrou **55,4 milhões de acessos de banda larga fixa**, e que 79% desses acessos, são de Fibra Óptica.
 >
 Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda Larga no Brasil.
->	
+<br><br>
+
+
+# 🛠️ Tecnologias
+
+* <img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="20" height="20"/><img loading="lazy" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="80" height="20"/>
+* DAX
+* Power Query
+* Deneb (Vega-Lite)
+* Python
+* Estatística Aplicada
+* Forecasting Analytics
+
+---
+
 # 📈 Gráficos
 
 * Cards --> total com variação e densidade
