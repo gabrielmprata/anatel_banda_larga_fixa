@@ -65,13 +65,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
 
-Icones ON/OFF
-Menu
-Wireframe
-Relatorios
-Estatisticas
-Filtros dinamicos
-
+<a href="https://www.figma.com/design/eu7X1863DV4e3wshDA9VBX/Dash_Seguranca?m=auto&t=Kr247IkcIUXa27xq-6"><img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40" alt="Acesse"></a>
 
 </br></br>
 # 🧱 Arquitetura de Dados
