@@ -52,26 +52,13 @@ Componentes:
 
 ## 04_KPIs
 
-Criar 1 componente reutilizável:
+Criar 2 componente reutilizável:
 
-* Ícone
 * Título
 * Valor
 * Crescimento
 
 Depois usar Auto Layout.
-
----
-
-## 05_CHARTS
-
-Separar:
-
-* Chart principal
-* Donut 1
-* Donut 2
-* Atividade
-* Mapa
 
 ---
 
@@ -91,8 +78,6 @@ Criar Component + Variants:
 * Fundo azul
 * Glow
 * Texto branco
-
-Isso facilita MUITO no Power BI depois.
 
 ---
 
@@ -149,23 +134,6 @@ Effects:
 
 ---
 
-# Auto Layout
-
-Use Auto Layout em:
-
-* Sidebar
-* KPI Cards
-* Header
-* Lista Atividade
-
-Facilita:
-
-* alinhamento
-* responsividade
-* exportação
-
----
-
 # Exportação para Power BI
 
 ## Background
@@ -175,10 +143,6 @@ Export:
 * PNG
 * 1920x1080
 
----
-
-## Sidebar
-
 Exportar separado:
 
 * OFF
@@ -186,74 +150,14 @@ Exportar separado:
 
 ---
 
-## Ícones
-
-Preferência:
-
-* SVG
-
-Power BI renderiza melhor.
-
----
-
 # Estrutura Recomendada do Arquivo
 
 ```text
-📁 Dashboard
- ┣ 📁 Background
- ┣ 📁 Sidebar
- ┣ 📁 Header
- ┣ 📁 Cards
- ┣ 📁 Charts
- ┣ 📁 Assets
- ┗ 📁 Icons
+📁 Main
+ ┣ 📁 datasets
+ ┣ 📁 images
+ 
 ```
-
----
-
-# Plugins Figma que vão ajudar MUITO!
-
-## Icons
-
-* Iconify
-
-## Gráficos
-
-* Charts
-* Datavizer
-
-## UI
-
-* UI Prep
-* Design System Organizer
-
----
-
-# Fluxo Profissional
-
-## Etapa 1
-
-Montar tudo no Figma
-
-## Etapa 2
-
-Exportar:
-
-* fundos
-* botões
-* assets
-
-## Etapa 3
-
-Montar no Power BI
-
-## Etapa 4
-
-Criar:
-
-* bookmarks
-* navegação
-* estados ON/OFF
 
 ---
 * pronto para portfólio
