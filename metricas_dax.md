@@ -28,7 +28,7 @@ ant_acessos_pan = CALCULATE([acessos_panorama],DATEADD(dm_calendario[data],-1,MO
 ```
 
 ---
-* Faixa de velocidade
+🧮 Faixa de velocidade
 ```
 faixa_velocidade = 
 SWITCH(
@@ -48,7 +48,7 @@ SWITCH(
     "1Gb+"
 )
 ```
-* Tabela calendario 📅
+🧮 Tabela calendario 📅
 ``` 
 dm_calendario = 
 VAR DataInicio = DATE(2024, 12, 1)
