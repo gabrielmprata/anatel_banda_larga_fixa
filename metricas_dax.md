@@ -12,6 +12,11 @@ Agora, podemos criar as medidas de maneira organizada
 
 ---
 
+🧮 Total de acessos
+```
+acessos_total = SUM(df_acessos_bl_fixa[acessos])
+```
+
 🧮 Total de acessos (panorama)
 ```
 acessos_panorama = SUM(df_panorama_bl_fixa[acessos])
