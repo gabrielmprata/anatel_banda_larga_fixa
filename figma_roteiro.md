@@ -1,6 +1,4 @@
-O melhor fluxo para reproduzir esse dashboard no Figma e depois levar para o Power BI seria:
-
-# Estrutura Ideal no Figma
+# Estrutura no Figma
 
 ## Frame Principal
 
