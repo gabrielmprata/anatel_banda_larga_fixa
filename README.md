@@ -62,6 +62,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 
 * Previsto x Realizado
 * Reclamacoes
+* Indice de reclamacao
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
