@@ -43,8 +43,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Cards
   * Total de acessos
   * Densidade
-* Pizza por meio de acesso
-* Barras horizontal por meio de acesso, agrupando por operadora
+* Pie por meio de acesso
 * Linhas com o historico meio de acesso
 * Barras horizontal por operadora com a opção "Outros"
 * Mapa do Brasil
