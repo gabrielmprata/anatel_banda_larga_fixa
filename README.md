@@ -40,7 +40,9 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 
 # 📈 Gráficos
 
-* Cards --> total com variação e densidade
+* Cards
+  * Total de acessos
+  * Densidade
 * Pizza por meio de acesso
 * Barras horizontal por meio de acesso, agrupando por operadora
 * Linhas com o historico meio de acesso
