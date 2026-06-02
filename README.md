@@ -61,6 +61,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 # 🔮 Próximos Passos
 
 * Previsto x Realizado
+* Reclamacoes
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
