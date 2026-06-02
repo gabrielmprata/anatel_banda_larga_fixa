@@ -55,6 +55,7 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 * Velcidade da planta
 * Velcidade com mais adesões
 * Interacoes
+* Reclamações
 
 <br><br>
 # 🔮 Próximos Passos
