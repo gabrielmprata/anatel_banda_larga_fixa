@@ -61,24 +61,21 @@ Demonstrar capacidade em:
 
 # 📊 Principais Métricas Estatísticas
 
-## Média dos Últimos 12 Meses
+## Média dos Últimos 3/6/12 Meses
+Utilizada para identificar o comportamento médio do mercado.
 
 $$
 \mu = \frac{\sum x}{n}
 $$  
 
-Utilizada para identificar o comportamento médio do mercado.
-
-
----
-
 ## Desvio Padrão
 
 Mede a dispersão dos acessos entre operadoras.
 
+$$
 \sigma = \sqrt{\frac{\sum (x-\mu)^2}{n}}
+$$
 
----
 
 ## Z-Score
 
