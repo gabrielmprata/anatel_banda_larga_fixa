@@ -26,7 +26,17 @@ A ANATEL(Agência Nacional de Telecomunicações) divulgou em seu portal de dado
 >
 Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda Larga no Brasil.
 <br><br>
+# 🎯 Objetivo do Projeto
 
+Demonstrar capacidade em:
+
+* Data Analytics
+* Data Science
+* Power BI avançado
+* Estatística aplicada
+* Storytelling analítico
+* UX para dashboards
+* Telecom Intelligence
 
 # 🛠️ Tecnologias
 
