@@ -85,6 +85,19 @@ $$
 Z = \frac{x - \mu}{\sigma}
 $$
 
+# 📌 Insights Gerados
+
+O projeto permite identificar:
+
+* Operadoras com crescimento anômalo
+* Expansão agressiva de ISPs regionais
+* Concentração de mercado
+* Volatilidade operacional
+* Tendência de crescimento
+* Ganho/perda de market share
+* Risco competitivo
+* Aceleração regional
+
 # 📈 Gráficos
 
 * Cards
