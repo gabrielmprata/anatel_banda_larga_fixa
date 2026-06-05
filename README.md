@@ -79,8 +79,18 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 * escalabilidade;
 * facilidade analítica.
 </br></br>
----
+# 📚 Aprendizados
 
+Durante o desenvolvimento deste projeto foram aplicados conceitos de:
+
+* Estatística descritiva
+* Séries temporais
+* Engenharia analítica
+* UX para BI
+* Design orientado a dados
+* Storytelling executivo
+* Telecom Analytics
+</br></br>
 # 👨‍💻 Autor
 
 Gabriel Prata
@@ -91,7 +101,7 @@ Gabriel Prata
 * GitHub
 * Portfólio
 
----
+
 
 # ⭐ Considerações Finais
 
