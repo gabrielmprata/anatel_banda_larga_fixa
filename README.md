@@ -63,9 +63,12 @@ Demonstrar capacidade em:
 
 ## Média dos Últimos 12 Meses
 
+$$
+\mu = \frac{\sum x}{n}
+$$  
+
 Utilizada para identificar o comportamento médio do mercado.
 
-\mu = \frac{\sum x}{n}
 
 ---
 
