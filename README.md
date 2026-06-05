@@ -46,7 +46,17 @@ Demonstrar capacidade em:
 * Estatística Aplicada
 * Forecasting Analytics
 
----
+# 🧠 Técnicas Utilizadas
+
+| Categoria        | Técnicas                      |
+| ---------------- | ----------------------------- |
+| Estatística      | Média, Desvio Padrão, Z-score |
+| Séries Temporais | Média Móvel, Tendência Linear |
+| Analytics        | Market Share, Volatilidade    |
+| Data Science     | Clusterização, Anomalias      |
+| Forecast         | Previsão temporal             |
+| BI               | KPIs executivos               |
+| UX/UI            | Dashboard Enterprise          |
 
 # 📈 Gráficos
 
