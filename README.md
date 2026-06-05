@@ -81,8 +81,9 @@ $$
 
 Detecta operadoras fora do padrão estatístico.
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"Z = \frac{x - \mu}{\sigma}"}}
-
+$$
+Z = \frac{x - \mu}{\sigma}
+$$
 
 # 📈 Gráficos
 
