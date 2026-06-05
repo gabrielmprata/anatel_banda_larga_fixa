@@ -58,6 +58,32 @@ Demonstrar capacidade em:
 | BI               | KPIs executivos               |
 | UX/UI            | Dashboard Enterprise          |
 
+
+# 📊 Principais Métricas Estatísticas
+
+## Média dos Últimos 12 Meses
+
+Utilizada para identificar o comportamento médio do mercado.
+
+\mu = \frac{\sum x}{n}
+
+---
+
+## Desvio Padrão
+
+Mede a dispersão dos acessos entre operadoras.
+
+\sigma = \sqrt{\frac{\sum (x-\mu)^2}{n}}
+
+---
+
+## Z-Score
+
+Detecta operadoras fora do padrão estatístico.
+
+genui{"math_block_widget_always_prefetch_v2":{"content":"Z = \frac{x - \mu}{\sigma}"}}
+
+
 # 📈 Gráficos
 
 * Cards
