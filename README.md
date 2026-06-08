@@ -124,7 +124,6 @@ O projeto permite identificar:
 * Previsto x Realizado
 * Reclamacoes
 * Indice de reclamacao
-* Tabela cruzada
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
