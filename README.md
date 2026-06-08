@@ -128,6 +128,7 @@ O projeto permite identificar:
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
 Icones
+exportar
 
 <a href="https://www.figma.com/design/OO6KSzkn8NwiGCw3pkBMSb/Dash_Banda_Larga_Fixa?node-id=0-1&m=dev&t=68cCvjjaU9CvstNc-1"><img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40" alt="Acesse"></a>
 
