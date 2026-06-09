@@ -115,7 +115,6 @@ O projeto permite identificar:
   * Diferença
 * Velcidade da planta
 * Velcidade com mais adesões
-* Interacoes
 * Reclamações
 
 <br><br>
