@@ -122,7 +122,7 @@ O projeto permite identificar:
 # 🔮 Próximos Passos
 
 * Previsto x Realizado
-* Indice de reclamacao
+
 
 # 🎨 UX/UI Design
 Acesse o design de interface no Figma!
