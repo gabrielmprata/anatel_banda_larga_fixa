@@ -122,7 +122,6 @@ O projeto permite identificar:
 # 🔮 Próximos Passos
 
 * Previsto x Realizado
-* Reclamacoes
 * Indice de reclamacao
 
 # 🎨 UX/UI Design
