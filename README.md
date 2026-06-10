@@ -157,14 +157,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 Gabriel Prata
 
-## Conecte-se
-
-* LinkedIn
-* GitHub
-* Portfólio
-
-
-
 # ⭐ Considerações Finais
 
 Este projeto foi desenvolvido com foco em:
@@ -172,8 +164,5 @@ Este projeto foi desenvolvido com foco em:
 * excelência visual
 * análise estatística
 * inteligência de mercado
-* dashboards enterprise
-
-indo além de dashboards tradicionais de Power BI e aproximando-se de soluções reais utilizadas em ambientes corporativos de Telecom Analytics.
 
 
