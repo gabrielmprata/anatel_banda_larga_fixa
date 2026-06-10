@@ -132,7 +132,11 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 * melhor performance;
 * escalabilidade;
 * facilidade analítica.
-</br></br>
+
+```text id="t2f44f"
+Dados → Tratamento → Estatística → Anomalias → Forecast → Insights
+```
+
 # 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos de:
