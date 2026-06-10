@@ -125,6 +125,14 @@ Acesse o design de interface no Figma!
 
 <a href="https://www.figma.com/design/OO6KSzkn8NwiGCw3pkBMSb/Dash_Banda_Larga_Fixa?node-id=0-1&m=dev&t=68cCvjjaU9CvstNc-1"><img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40" alt="Acesse"></a>
 
+# 📊 Modelo Analítico
+
+## Fluxo da análise
+
+```text id="t2f44f"
+Dados → Tratamento → Estatística → Anomalias → Forecast → Insights
+```
+
 # 🧱 Arquitetura de Dados
 
 O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
@@ -132,10 +140,6 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 * melhor performance;
 * escalabilidade;
 * facilidade analítica.
-
-```text id="t2f44f"
-Dados → Tratamento → Estatística → Anomalias → Forecast → Insights
-```
 
 # 📚 Aprendizados
 
@@ -148,7 +152,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * Design orientado a dados
 * Storytelling executivo
 * Telecom Analytics
-</br></br>
+
 # 👨‍💻 Autor
 
 Gabriel Prata
