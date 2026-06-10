@@ -89,7 +89,7 @@ Criar Component + Variants:
 
 ### Blue Primary
 
-* `#00A3FF`
+* ![#FF5733](https://placehold.co/30x30/00A3FF/00A3FF/png) `#00A3FF`
 
 ### Blue Deep
 
