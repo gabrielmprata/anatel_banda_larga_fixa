@@ -105,3 +105,125 @@ Tendencia_Estrutural =
 [Media_Movel_3M] -
 [Media_Movel_12M]
 ```
+🧮 Desvio Padrão
+```
+Desvio_Padrao_12M = 
+VAR Periodo =
+    DATESINPERIOD(
+        dm_calendario[data],
+        MAX(dm_calendario[data]),
+        -12,
+        MONTH
+    )
+
+RETURN
+
+CALCULATE(
+    STDEV.P(df_acessos_bl_fixa[acessos]),
+    Periodo
+)
+```
+🧮 Média Móvel 3M
+```
+Media_Movel_3M = 
+AVERAGEX(
+    DATESINPERIOD(
+        dm_calendario[data],
+        MAX(dm_calendario[data]),
+        -3,
+        MONTH
+    ),
+    [acessos_total]
+)
+```
+🧮 Média Móvel 6M
+```
+Media_Movel_6M = 
+AVERAGEX(
+    DATESINPERIOD(
+        dm_calendario[data],
+        MAX(dm_calendario[data]),
+        -6,
+        MONTH
+    ),
+    [acessos_total]
+)
+```
+🧮 Média Móvel 12M
+```
+Media_Movel_12M = 
+AVERAGEX(
+    DATESINPERIOD(
+        dm_calendario[data],
+        MAX(dm_calendario[data]),
+        -12,
+        MONTH
+    ),
+    [acessos_total]
+)
+```
+🧮 Forecast Ensemble
+```
+Forecast_Ensemble = 
+(
+    [Media_Movel_3M] * 0.5
+)
++
+(
+    [Media_Movel_12M] * 0.5
+)
++
+(
+    [Tendencia_Estrutural] * 0.3
+)
+```
+🧮 Forecast Híbrido
+```
+Forecast_Hibrido = 
+(
+    [Media_Movel_3M] * 0.5
+) +
+(
+    [Media_Movel_6M] * 0.3
+) +
+(
+    [Media_Movel_12M] * 0.2
+)
+```
+🧮 Forecast Real
+```
+Forecast_Real = 
+ (
+(
+    [Media_Movel_3M] * 0.5
+) +
+(
+    [Media_Movel_6M] * 0.3
+) +
+(
+    [Media_Movel_12M] * 0.2
+)
+
++
+
+(
+    ([Media_Movel_3M] -
+	 [Media_Movel_12M]) * 0.5
+)
+)
+* [Percentual_Do_Pico]
+```
+🧮 Percentual do Pico
+```
+Percentual_Do_Pico = 
+DIVIDE(
+    [acessos_total],
+
+    CALCULATE(
+        MAXX(
+            ALL(dm_calendario),
+            [acessos_total]
+        )
+    )
+)
+```
