@@ -157,7 +157,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 **Gabriel Prata**
 
-Cientista de Dados | Power BI Developer | Analytics Engineer
+Especialista em Business Intelligence (BI) | Cientista de Dados | Power BI Developer | Analytics Engineer
 
 📍 Rio de Janeiro - Brasil
 
