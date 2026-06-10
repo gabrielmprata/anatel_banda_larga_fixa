@@ -155,7 +155,13 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 # 👨‍💻 Autor
 
-Gabriel Prata
+**Gabriel Prata**
+
+Cientista de Dados | Power BI Developer | Analytics Engineer
+
+📍 Rio de Janeiro - Brasil
+
+💼 Focado em Analytics, Ciência de Dados, Forecasting e Business Intelligence
 
 # ⭐ Considerações Finais
 
