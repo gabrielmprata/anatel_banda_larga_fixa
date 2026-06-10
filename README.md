@@ -72,23 +72,21 @@ O projeto permite identificar:
 * Aceleração regional
 * Operadoras com mais reclamações na ANATEL
 
-# 📈 Gráficos
+# 📈 Principais Visuais
 
-* Cards
-  * Total de acessos
+* KPIs
+  * Total de acessos com variação MoM
   * Densidade
-* Pie por meio de acesso
-* Linhas com o historico meio de acesso
-* Barras horizontal por operadora com a opção "Outros"
+  * Total de reclamações com variação MoM
+
+* Linhas com o historico de acessos dos últimos 10 anos
+* Barras horizontal com o MarketShare por operadora com a opção de "Outros"(agrupa todas as outraas que não estão entre as Top 12)
 * Mapa do Brasil
-* Adições liquidas de fibra
-* Churn
+* Barras com adições liquidas de fibra(net-add)
+* Barras com maiores perdas de acessos(Churn)
 * Último 6 meses baseado no filtro de segmentação
-  * Total
-  * Diferença
-* Velcidade da planta
-* Velcidade com mais adesões
-* Reclamações
+* Forecast Temporal
+
 
 <br><br>
 # 📊 Principais Métricas Estatísticas
