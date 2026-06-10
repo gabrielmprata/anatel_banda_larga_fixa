@@ -58,20 +58,6 @@ Demonstrar capacidade em:
 | BI               | KPIs executivos               |
 | UX/UI            | Dashboard Enterprise          |
 
-# 📌 Insights Gerados
-
-O projeto permite identificar:
-
-* Operadoras com crescimento anômalo
-* Expansão agressiva de ISPs regionais
-* Concentração de mercado
-* Volatilidade operacional
-* Tendência de crescimento
-* Ganho/perda de market share
-* Risco competitivo
-* Aceleração regional
-* Operadoras com mais reclamações na ANATEL
-
 # 📈 Principais Visuais
 
 * KPIs
@@ -87,8 +73,20 @@ O projeto permite identificar:
 * Último 6 meses baseado no filtro de segmentação
 * Forecast Temporal
 
+# 📌 Insights Gerados
 
-<br><br>
+O projeto permite identificar:
+
+* Operadoras com crescimento anômalo
+* Expansão agressiva de ISPs regionais
+* Concentração de mercado
+* Volatilidade operacional
+* Tendência de crescimento
+* Ganho/perda de market share
+* Risco competitivo
+* Aceleração regional
+* Operadoras com mais reclamações na ANATEL
+
 # 📊 Principais Métricas Estatísticas
 
 ## Média dos Últimos 3/6/12 Meses
