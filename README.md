@@ -5,6 +5,16 @@
 
 <img src="http://img.shields.io/static/v1?label=vers%C3%A3o%20do%20projeto&message=v3.0&color=red&style=for-the-badge&logo=github"/>
 </p>
+<br><br>
+
+## 🖥️ Demo App
+
+<img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="30" height="30"/>[![PowerBI App](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZDNjYjdmMzItOGZkNy00NWI0LTk5NmQtZDhmMGRjZWZlYjNiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+
+
+
+
 
 ![Dashboard Demo](assets/demo.gif)
 
