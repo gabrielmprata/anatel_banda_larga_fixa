@@ -146,17 +146,3 @@ Exportar separado:
 * OFF
 * ON
 
----
-
-# Estrutura Recomendada do Arquivo
-
-```text
-📁 Main
- ┣ 📁 datasets
- ┣ 📁 images
- 
-```
-
----
-* pronto para portfólio
-* extremamente diferenciado no LinkedIn/GitHub.
