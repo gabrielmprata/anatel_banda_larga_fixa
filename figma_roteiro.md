@@ -1,4 +1,4 @@
-# Estrutura no Figma
+# <img loading="lazy" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40"/> Estrutura no Figma
 
 ## Frame Principal
 
