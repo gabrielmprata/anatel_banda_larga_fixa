@@ -66,3 +66,42 @@ RETURN
         "mes_desc", FORMAT([Date], "MMMM")
         )
 ```
+🧮 Acessos mês anterior
+```
+ant_acessos = CALCULATE([acessos_total],DATEADD(dm_calendario[data],-1,MONTH))
+```
+🧮 Variação Acessos
+```
+var_acessos_tot = IF(ISBLANK([ant_acessos]),BLANK(),DIVIDE([acessos_total],[ant_acessos],0)-1)
+```
+🧮 Detalhe para Variação Acessos
+```
+det_var_acessos = (FORMAT([var_acessos_pan],"+;-"))
+```
+🧮 Market Share
+```
+Market Share = 
+
+DIVIDE(
+    [acessos_total],
+
+    CALCULATE(
+        [acessos_total],
+        ALL(df_acessos_bl_fixa[empresa])
+    )
+)
+```
+🧮 Crescimento MoM
+```
+Crescimento_MoM = 
+DIVIDE(
+    [acessos_panorama] - [ant_acessos_pan],
+    [ant_acessos_pan]
+)
+```
+🧮 Tendência Estrutural
+```
+Tendencia_Estrutural = 
+[Media_Movel_3M] -
+[Media_Movel_12M]
+```
