@@ -85,7 +85,7 @@ Criar Component + Variants:
 
 ### Background
 
-* `#020B1C`
+* ![#FF5733](https://placehold.co/30x30/020B1C/020B1C/png) `#020B1C`
 
 ### Blue Primary
 
@@ -93,23 +93,23 @@ Criar Component + Variants:
 
 ### Blue Deep
 
-* `#013681`
+* ![#FF5733](https://placehold.co/30x30/013681/013681/png) `#013681`
 
 ### Text Primary
 
-* `#FFFFFF`
+* ![#FF5733](https://placehold.co/30x30/FFFFFF/FFFFFF/png) `#FFFFFF`
 
 ### Text Secondary
 
-* `#B7C4D8`
+* ![#FF5733](https://placehold.co/30x30/B7C4D8/B7C4D8/png) `#B7C4D8`
 
 ### Success
 
-* `#00FF85`
+* ![#FF5733](https://placehold.co/30x30/00FF85/00FF85/png) `#00FF85`
 
 ### Danger
 
-* `#FF3B3B`
+* ![#FF5733](https://placehold.co/30x30/FF3B3B/FF3B3B/png) `#FF3B3B`
 
 ---
 
