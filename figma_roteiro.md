@@ -77,7 +77,6 @@ Criar Component + Variants:
 * Glow
 * Texto branco
 
----
 
 # Sistema de Cores
 
