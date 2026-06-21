@@ -182,4 +182,4 @@ Este projeto foi desenvolvido com foco em:
 * análise estatística
 * inteligência de mercado
 
-
+Built with Data, Analytics & Coffee
