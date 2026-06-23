@@ -174,12 +174,4 @@ Especialista em Business Intelligence (BI) | Cientista de Dados | Data Viz Devel
 
 💼 Focado em Analytics, Ciência de Dados, Forecasting e Business Intelligence
 
-# ⭐ Considerações Finais
-
-Este projeto foi desenvolvido com foco em:
-
-* excelência visual
-* análise estatística
-* inteligência de mercado
-
 Built with Data, Analytics & Coffee
