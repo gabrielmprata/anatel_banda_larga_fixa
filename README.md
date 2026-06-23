@@ -47,7 +47,6 @@ Demonstrar capacidade em:
 * Estatística aplicada
 * Storytelling analítico
 * UX para dashboards
-* Telecom Intelligence
 
 # 🛠️ Tecnologias
 
