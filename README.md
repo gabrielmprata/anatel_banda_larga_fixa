@@ -55,7 +55,7 @@ Demonstrar capacidade em:
 * Power Query
 * Estatística Aplicada
 * Forecasting Analytics
-* Python
+* 🐍 Python
 
 # 🧠 Técnicas Utilizadas
 
