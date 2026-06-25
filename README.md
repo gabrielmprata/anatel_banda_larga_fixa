@@ -64,7 +64,6 @@ Demonstrar capacidade em:
 | Estatística      | Média, Desvio Padrão, Z-score |
 | Séries Temporais | Média Móvel, Tendência Linear |
 | Analytics        | Market Share, Volatilidade    |
-| Data Science     | Clusterização, Anomalias      |
 | Forecast         | Previsão temporal             |
 | BI               | KPIs executivos               |
 | UX/UI            | UX para dashboards          |
