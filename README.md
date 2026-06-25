@@ -55,6 +55,7 @@ Demonstrar capacidade em:
 * Power Query
 * Estatística Aplicada
 * Forecasting Analytics
+* Python
 
 # 🧠 Técnicas Utilizadas
 
@@ -66,7 +67,7 @@ Demonstrar capacidade em:
 | Data Science     | Clusterização, Anomalias      |
 | Forecast         | Previsão temporal             |
 | BI               | KPIs executivos               |
-| UX/UI            | Dashboard Enterprise          |
+| UX/UI            | UX para dashboards          |
 
 # 📈 Principais Visuais
 
