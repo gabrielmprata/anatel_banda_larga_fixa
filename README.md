@@ -50,6 +50,7 @@ Demonstrar capacidade em:
 
 # 🛠️ Tecnologias
 
+* <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  width="80" height="20"/>
 * <img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="20" height="20"/><img loading="lazy" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="80" height="20"/>
 * DAX
 * Power Query
