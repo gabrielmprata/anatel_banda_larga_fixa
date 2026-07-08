@@ -171,3 +171,47 @@ Especialista em Business Intelligence (BI) | Cientista de Dados | Data Viz Devel
 💼 Focado em Analytics, Ciência de Dados, Forecasting e Business Intelligence
 
 Built with Data, Analytics & Coffee
+
+## Arquitetura do ETL
+
+```mermaid
+flowchart LR
+
+    subgraph Fonte
+        A["Portal de Dados Abertos da ANATEL"]
+    end
+
+    subgraph ETL
+        B["Download do ZIP"]
+        C["BytesIO"]
+        D["ZipFile"]
+        E["Leitura dos CSVs"]
+    end
+
+    subgraph Processamento
+        F["DataFrame 2024"]
+        G["DataFrame 2025"]
+        H["Tratamento"]
+        I["Padronização"]
+    end
+
+    subgraph Saída
+        J["Power BI"]
+        K["Parquet"]
+        L["Análises Estatísticas"]
+    end
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+    F --> H
+    G --> H
+    H --> I
+    I --> J
+    I --> K
+    I --> L
+```
+
