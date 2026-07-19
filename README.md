@@ -148,7 +148,7 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 
 * melhor performance;
 * escalabilidade;
-* facilidade analítica.
+* facilidade analítica
 
 # 📚 Aprendizados
 
